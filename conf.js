@@ -15,8 +15,7 @@ jsproxy_config({
    'mysite': {
       label: 'Local',
       lines: {
-        //[location.host]: 1,
-        'green-disk-9f56.b46.workers.dev': 9,
+        [location.host]: 1,
       }
     },
     'demo-hk': {
