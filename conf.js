@@ -46,7 +46,6 @@ jsproxy_config({
         'b.hehe.workers.dev': 1,
         'b.lulu.workers.dev': 1,
         'b.jsproxy.workers.dev': 1,
-        'green-disk-9f56.b46.workers.dev': 9,
       }
     }
   },
