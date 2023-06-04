@@ -2,9 +2,9 @@
 # 收集了部分，实验中...
 
 # google
-ssl.google-analytics.com
-www.googletagmanager.com
-pagead2.googlesyndication.com
+#ssl.google-analytics.com
+#www.googletagmanager.com
+#pagead2.googlesyndication.com
 
 # [public]
 cdn.jsdelivr.net
