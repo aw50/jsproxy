@@ -91,8 +91,8 @@ jsproxy_config({
     'http://haha.com/': {
       content: 'Hello World'
     },
-	'googleapis.com': {
-      replace: 'loli.net'
+	'//googleapis.com/': {
+      replace: '//loli.net/'
     },
   }
 })
